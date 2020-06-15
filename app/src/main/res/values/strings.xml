@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="isim">Yasin Akdoğan</string>
+    <string name="aciklama">Mobil Programlama Final Sınavı</string>
+    <string name="ogrenciNo">181130072</string>
+    <string name="email">Email:</string>
+    <string name="password">Şifre:</string>
+    <string name="confPassword">Şifrenizi Onaylayınız:</string>
+    <string name="kayitOl">KAYIT OL</string>
+    <string name="kayitli">Zaten bir hesabınız var mı?</string>
+    <string name="girisYapIntentText">GİRİŞ YAP</string>
+    <string name="kayitliDegil">Kayıtlı değil misiniz?</string>
+</resources>
