@@ -1,5 +1,7 @@
 https://reqres.in/
 
-Glide: https://github.com/bumptech/glide
+# Glide Library: 
+https://github.com/bumptech/glide
 
+# Picasso Library
 Picasso: https://github.com/square/picasso
