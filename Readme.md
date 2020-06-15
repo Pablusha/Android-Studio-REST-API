@@ -1,4 +1,4 @@
-https://reqres.in/
+BASE_URL = https://reqres.in/
 
 # Glide Library: 
 https://github.com/bumptech/glide
